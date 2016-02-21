@@ -1,0 +1,7 @@
+[package]
+name = "my_wc"
+version = "0.1.0"
+authors = ["Layne McNish <layne.mcnish@legitscript.com>"]
+
+[dependencies]
+getopts = "0.2"
